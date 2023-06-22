@@ -29,12 +29,13 @@ header{
     background-color:white;
     align-items: center;
     padding: 10px;
+    color: #000;
     
 }
 .footer{
      /* border: 5px solid darkblue;  */
   
-  position: absolute;
+
   bottom: 0px; 
   background-color:white;
   display: flex;
@@ -46,7 +47,7 @@ header{
      /* border: 5px solid darkblue;  */
     justify-content: space-between;
     align-items: center;
-    width: 50%;
+    width: 35%;
     margin: auto;    
   
 }
@@ -73,11 +74,13 @@ nav a:hover{
     justify-content: center;
     }
 .info{
-    width: 35%;
+    width: 30%;
     font-family: sans-serif;
     font-size: 1.2rem;
    
 }
+
+
 
     
 #nuestra_foto{
@@ -107,6 +110,10 @@ nav a:hover{
     p{
         font-size: 1rem;
     
+    }
+    .info{
+        width: 60%;
+
     }
 }
 .presentacion{
