@@ -93,7 +93,7 @@ nav a:hover{
     
 #nuestra_foto{
     height: auto;
-    width: 450px;
+    width: 300px;
 }
 .redes{
     display: flex;
@@ -122,6 +122,10 @@ nav a:hover{
     .info{
         width: 60%;
 
+    }
+    .foto{
+        height: auto;
+        width: 300px;
     }
 }
 .presentacion{
