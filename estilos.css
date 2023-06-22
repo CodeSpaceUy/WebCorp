@@ -2,7 +2,8 @@ body{
     /* background-color: silver; */
     font-family: sans-serif;
     margin: 0;
-   background-color: rgb(32, 32, 32);     
+   background-color: rgb(32, 32, 32);      
+ 
    color: white;
 }
 a{
@@ -80,12 +81,19 @@ nav a:hover{
    
 }
 
+.foto{
+    justify-content: center !important;
+    align-items: center;
+    display: flex;
+}
+
+
 
 
     
 #nuestra_foto{
-    height: 100%;
-    width: 100%;
+    height: auto;
+    width: 450px;
 }
 .redes{
     display: flex;
